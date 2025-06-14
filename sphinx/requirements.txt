@@ -4,3 +4,4 @@ python-dateutil
 Sphinx
 sphinx-bootstrap-theme
 sphinx-rtd-theme
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
